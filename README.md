@@ -32,6 +32,8 @@ Developed a machine learning model to identify suspicious transactions and help 
 * IBM Cybersecurity Fundamentals
 * Full AI Course 2025: ChatGPT, Gemini, Midjourney, Firefly
 * Java Data Structures and Algorithms Masterclass
+* Google AI Essentials
+* Google Promoting Essentials
 
 ## 🌱 Currently Learning
 
