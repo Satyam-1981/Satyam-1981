@@ -46,6 +46,6 @@ Developed a machine learning model to identify suspicious transactions and help 
 
 * Email: [brosharmasatyam123@gmail.com](mailto:brosharmasatyam123@gmail.com)
 * LinkedIn: [https://www.linkedin.com/in/satyam-sharma-176633299]
-* GitHub: github.com/Satyam-1981
+* GitHub: [github.com/Satyam-1981]
 
 ⭐ Open to ML, Data Analytics, and AI Internship Opportunities.
