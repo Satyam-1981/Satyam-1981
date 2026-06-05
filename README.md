@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Satyam Sharma
 
-<!--
-**Satyam-1981/Satyam-1981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (Artificial Intelligence & Machine Learning)
 
-Here are some ideas to get you started:
+💡 Passionate about Data Analytics, Machine Learning, and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Python
+* SQL
+* Pandas
+* NumPy
+* Scikit-learn
+* Data Visualization
+* Git & GitHub
+
+## 📂 Projects
+
+* Crop Prediction using AI
+* Fraud Detection in Online Payments
+
+## 🌱 Currently Learning
+
+* Machine Learning
+* Data Analytics
+* Generative AI
+
+## 📫 Connect With Me
+
+* Email: [brosharmasatyam123@gmail.com](mailto:brosharmasatyam123@gmail.com)
+
+⭐ Open to ML/Data Analyst Internship Opportunities
